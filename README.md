@@ -1,5 +1,5 @@
 # Aplikasi-Login
-Sebuah aplikasi dengan fitur login.
+Ini merupakan salah sebuah aplikasi dengan fitur login pada latihan studi kasus di Dicoding
 
 Alur Fitur Login:
 1. Memasukkan email dan password
